@@ -1,4 +1,4 @@
-# ⚡ Muhammad Nouman
+# Muhammad Nouman
 
 **Software Engineer & System Architect**
 
