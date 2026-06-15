@@ -1,6 +1,6 @@
 # 💫 About Me:
 
-🔭 Full-Stack Engineer building production-grade systems — web, mobile, and AI  
+🔭 Software Engineer building production-grade systems.
 🧠 Currently shipping: AI voice agents on Cloudflare Workers, RAG pipelines, event-driven NestJS microservices  
 💼 Top Rated on Upwork · 100% JSS · actively contracting  
 🎯 Targeting senior/staff roles at product-focused companies  
